@@ -1,0 +1,14 @@
+1)the link between JS and  Jquery,AJAX,node Js
+do we write code to J query, Ajax do we use those frequesently in our code?
+2)how the above all are linked to your code?
+3) 
+4) where we write the code?
+5) 
+6) 
+7)while i am developing the cdesign code and login do i need to wrie the code for Ajax,jquery,Json?
+8) 
+9) 
+10) cross flatform
+11) 
+12) 
+13)we can do some animation in jS jquery Css but which one need to use angular animations

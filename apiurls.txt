@@ -1,0 +1,6 @@
+https://jsonplaceholder.typicode.com/todos--no
+
+https://jsonplaceholder.typicode.com/photos--no
+https://jsonplaceholder.typicode.com/albums
+https://jsonplaceholder.typicode.com/comments
+https://jsonplaceholder.typicode.com/posts

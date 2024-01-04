@@ -1,0 +1,80 @@
+
+salva.bharath@onpassive.com
+
+front end controls  angular metretaials , bootstrap, angular primary mentarials , Ui libraries
+
+locgic is typescript angular
+
+
+API call 
+
+directives
+in which case this will use
+
+howmany modules and why use them 
+eager loading all pages be system memory(app will slown)
+lazy loading
+when eveer required then only componet load load
+one component lo multiple paes code raayocha yes we can in same page 
+
+
+
+
+Routings
+
+pipes
+
+
+API call 
+
+designs estaru avi chusi user registration form emloyee
+
+create ,edit ,delete,update form
+
+
+intercepters
+
+
+inline -grid
+
+
+GitHub--githib commands and purpose
+
+
+there is no testing we don;t do it test team will take care
+
+we do unit testing  nothing but while dwritng the logis to work some functioning for the valid inout we test it by default we write with code 
+Example:
+textbox for phone number, whli submitting the form there should be numbers in the textbox  else form won't go for submission for 
+that we have to test is it valid code to reach that requirement
+
+latest devops 
+we push the code into GITHIB there it will automatically send the logfie to us if there is erros or success then
+ we have to recheck the error and again we have chak the code
+
+some other projrcts
+we push the code into github and the testing team will sent the code back to us incase of erros
+
+debugging the code techniques
+1) we put the debugger in the code 
+2)we directly go the developer console there we can go to spurces and keep the break point
+
+CSS design checking
+we do toincept element and there we can chang the designe related values just for
+ testing only it wont be  change not reflected in your html page after testing you can edit the code in the orginal file where we wrtit eht code
+
+
+
+
+------------------------------------
+FUllstackdeveloper
+front end controls .netframework ,asp.net
+code and lgic asp.netc#.cs file
+backend sql server daatabase
+
+ 
+
+
+
+
+

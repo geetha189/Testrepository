@@ -1,0 +1,241 @@
+SCM: 
+
+  
+1. What is SCM.
+  
+2. SCM tools introduction
+  
+3. GIT and its usage 
+  
+4. How to manage the code
+  
+5. Introduction to branch and how to handle branches
+  
+6. How to clone, pull and commit the code
+
+
+HTML:
+
+  
+1. Introduction to HTML.
+  
+2. What is Mark Language?
+  
+3. Basic structure of HTML document
+  
+4. Introduction to Head section & elements of Head section
+  
+5. Creating a HTML document.
+  
+6. HTML Tags. 
+  
+7. Explanation about Block Level & Inline elements
+  
+8. Introduction to elements of HTML 
+  
+9. Working with Divisions
+  
+10. Working with Text
+  
+11. Working with Lists, Tables
+  
+12. Working with Hyperlinks, Images
+  
+13. Working with Forms and controls
+  
+14. Adding Styles and Classes to web pages
+
+
+
+CSS:
+  
+  
+1. Introduction to CSS
+  
+2. Concept of CSS 
+  
+3. Creating Style Sheet 
+  
+4. Pros & Cons of Inline, Internal & External CSS
+  
+5. What is CSS Property & explanation
+  
+6. Introduction to Box Model
+  
+7. CSS Styling(Background, Text Format, Controlling Fonts)
+  
+8. CSS Selectors
+  
+9. Text Styling Properties
+  
+10. Styling Page/container Backgrounds
+  
+11. Styling Lists in CSS
+  
+12. CSS Advanced(Display,
+  Positioning, Floating, Align,Pseudo class, Navigation Bar,
+      Image Sprites, Attribute sector) 
+  
+13. CSS Colors
+  
+14. Creating page Layout and Site Designs. 
+  
+15. CSS Precedence rules.
+
+
+
+
+MYSQL: 
+
+  
+1. Introduction to MySQL
+  
+2. Designing Databases
+  
+3. Basic SQL & Queries
+  
+4. Introduction to Joins and its implementation
+  
+5. Introduction to Procedures and implementation
+  
+6. Introduction to functions and implementation.
+
+
+
+NODEJS: 
+
+  
+1. Introduction to NODEJS
+  
+2. How to create services/apis
+  
+3. Explanation of best practices & its implementation with project(PDF download)
+
+
+
+
+Heart of the Course(JS):
+
+  
+1. Introducing Programming
+  
+2. How to Add JavaScript to a Page
+  
+3. Attaching an External JavaScript File to HTML
+  
+4. Debugging
+  (---------------------------debugging)
+5. Statements
+  
+6. Commands
+  
+7. Data Types
+  
+8. Variables
+  
+9. Working with Data Types and Variables
+  
+10. Control structures
+  
+11. JS Operators
+  
+12. JS functions
+  
+13. Working with Arrays & Objects
+  
+14. Working with events
+  
+15. JavaScript Selectors
+  
+16. DOM manipulations using JS
+  
+17. Making Async calls using native js
+
+Object 
+Oriented JS
+
+  
+1. OOPS Concepts
+  
+2. Classes and its implementation, usage
+  
+3. Inheritance
+  
+4. Best practices
+
+
+
+JQuery &JQueryUI: 
+
+  
+1. What is JQuery & its implementation
+  
+2. DOM manipulations using JQuery
+  
+3. implementation of JQueryui Concepts like accordion, datepicker, drag & drop etc.
+  
+4. What is Ajax?
+  
+5. Making async calls using ajax.
+
+
+
+Templating(Underscore): 
+
+  
+1. What is templating?
+  
+2. Why do we need  templating?
+  
+3. How to render a templates in webpages?
+  
+4. Underscore Templating and its utilities
+
+
+Angular(2/4/5/6):
+
+  
+1. What is Angular and its advantages?
+  
+2. Introducing to TypeScript
+  
+3. Variables, functions, classes & Inheritance
+  
+4. How to create/setup a project using CLI.
+  
+5. Introduction to Decorators
+  
+6. What is module and its advantages
+  
+7. How to create and use user-defined modules?
+  
+8. What is directive and its types(Component, structural & attribute directives).-- ng if ,ngFor etc..
+  
+9. How to use and create a new directives?
+  
+10. Basic Routing and Route Gaurds
+  
+11. Introduction to services?---providers or dependecy injection,ex:Apicall service
+  
+12. communication/data sharing between components
+  
+13. Template Driven Forms & Model Driven Forms/Reactive Forms
+  
+14. What is pipe and how to create and use user-defined/predefined pipes
+  
+15. Sample Projects on Health care domain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

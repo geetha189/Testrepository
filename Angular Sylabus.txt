@@ -1,0 +1,55 @@
+  "D:/AngularProjects/custompipe/node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+componeent based 
+
+dependency injection
+it is pool it won't recreated if it is already there 
+
+single page application
+
+
+
+user profiled 
+
+authneticaitation,
+autorization??
+
+routing ??od
+moving from one page to another page
+
+
+eagel loading all pages be system memory(app will slown)
+
+lazy loading
+when eveer required then only componet load load
+
+partial loading
+
+
+service
+get 
+delete
+post(create)
+poot
+
+two way binding is 
+banana inside the box
+
+parllel
+
+
+templete based form
+
+react forms for validation complex lot of validates
+
+
+
+angular front rend controls nothing but 
+angualr metarials ,ng metarials ,UI librariues,prime-ng controls
+bootstrap, 
+
+
+
+controls front end- logic code  angular
+
+
